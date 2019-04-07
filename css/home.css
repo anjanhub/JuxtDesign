@@ -1,0 +1,8 @@
+#header-canvas{
+	background-color:rgb(248, 246, 246);
+	position: relative;
+}
+
+.bg-img .overlay {
+    opacity: 1 !important;
+}
